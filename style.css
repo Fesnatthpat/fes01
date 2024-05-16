@@ -90,6 +90,11 @@ nav {
     /* font-size: 35px; */
 }
 
+.content-con h2{
+    color: #ffffff;
+    /* font-size: 35px; */
+}
+
 .btn-hero button{
     padding: 10px 50px;
     border-radius: 6px;
@@ -136,6 +141,10 @@ nav {
 .item-icon i {
     font-size: 35px;
     margin: 0 12px;
+}
+
+.text-item p {
+    color: #777777;
 }
 
 .products-con {
